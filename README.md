@@ -1,1 +1,2 @@
-# ARIMA-Houshold-Energy-Usage
+# Household Power Consumption 
+- Time Series Forecasting with ARIMA model - 
